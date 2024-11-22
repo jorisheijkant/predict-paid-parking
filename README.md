@@ -10,5 +10,5 @@ In order to run this script, navigate with your terminal to this folder and run 
 
 ## N.B.
 
-- Most info about the script and how it works is in the
+- Most info about the script and how it works is in the script file (`predict_parking.py`).
 - Spoiler alert: the model will probably assign great importance to urbanization. Please note that this indicator is reversed in the data. [A low number means high urbanization](https://www.cbs.nl/nl-nl/onze-diensten/methoden/begrippen/stedelijkheid--van-een-gebied--).
